@@ -1,0 +1,4 @@
+[submodule "Projects"]
+	path = Projects
+	url = https://github.com/PawanjitSarkaria/Projects.git
+	branch = main
